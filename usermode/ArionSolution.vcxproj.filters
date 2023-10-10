@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="driver">
+      <UniqueIdentifier>{a8f4bc75-d59b-4f49-86f9-b447175ec754}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="driver.cpp">
+      <Filter>driver</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="driver.h">
+      <Filter>driver</Filter>
+    </ClInclude>
+    <ClInclude Include="lock.h">
+      <Filter>driver</Filter>
+    </ClInclude>
+    <ClInclude Include="server_shared.h">
+      <Filter>driver</Filter>
+    </ClInclude>
+    <ClInclude Include="junk.h">
+      <Filter>driver</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

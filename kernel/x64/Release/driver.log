@@ -1,0 +1,12 @@
+﻿  Building 'driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  berkeley.c
+  ksocket.c
+  Создание кода...
+  Компиляция...
+  main.cpp
+  packet_handler.cpp
+  server.cpp
+  Создание кода...
+  driver.vcxproj -> C:\Users\Asddd.DESKTOP-APMQBR6\Desktop\kernel\x64\Release\driver.sys
+  Inf2Cat task was skipped as there were no inf files to process
+  
